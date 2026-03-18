@@ -1,7 +1,6 @@
 # 🛡️ eJPTv2 – Mis apuntes completos 
 
-![eJPTv2 Badge](https://img.shields.io/badge/Certification-eJPTv2-blue?style=for-the-badge&logo=target)![Focus](https://img.shields.io/badge/Enfoque-Pentesting-0A84FF?style=for-the-badge&logo=linux)
-![Format](https://img.shields.io/badge/Formato-Obsidian-7C3AED?style=for-the-badge&logo=markdown)![License](https://img.shields.io/badge/Licencia-MIT-yellow?style=for-the-badge&logo=open-source-initiative)
+![eJPTv2 Badge](https://img.shields.io/badge/Certification-eJPTv2-blue?style=for-the-badge&logo=target) ![Focus](https://img.shields.io/badge/Enfoque-Pentesting-0A84FF?style=for-the-badge&logo=linux) ![Format](https://img.shields.io/badge/Formato-Obsidian-7C3AED?style=for-the-badge&logo=markdown) ![License](https://img.shields.io/badge/Licencia-MIT-yellow?style=for-the-badge&logo=open-source-initiative)
 
 
 Bienvenido/a a este repositorio que contiene **mis apuntes personales del eJPTv2**.  
