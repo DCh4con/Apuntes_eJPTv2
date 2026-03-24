@@ -22,6 +22,8 @@
 ## [[5.0 Metodología]]
 ## [[5.1 Post-Explotación Windows]]
 ## [[5.2 Post-Explotación Linux]]
+# 6. Hacking Web
+## [[CMS - Content Management System]]
 
 
 ---
